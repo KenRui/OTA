@@ -13,20 +13,6 @@
                         <key>url</key>
                         <string>http://119.29.58.222/bigwar/201612271055bigwar.ipa</string>
                     </dict>
-                    <dict>
-                        <key>kind</key>
-                        <string>display-image</string>
-                        <key>needs-shine</key>
-                        <true/>
-                        <key>url</key>
-                        <string>http://222.73.63.134:7788/ios/Icon.png</string>
-                    </dict>
-                    <dict>
-                        <key>kind</key>
-                        <string>full-size-image</string>
-                        <key>url</key>
-                        <string>http://222.73.63.134:7788/ios/Icon.png</string>
-                    </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
